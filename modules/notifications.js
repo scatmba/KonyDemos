@@ -1,5 +1,28 @@
 //Type your code here
 
+
+function imgBackNavigations()
+{
+  var frmPrv =kony.application.getCurrentForm().id;
+  kony.print("Previous form:" +frmPrv);
+  switch(frmPrv)
+    {
+      case "frmNotification": frmDashboard.show();
+        break;
+      
+      case "frmNotificationDetails": frmNotification.show();
+        break;
+      
+    }
+ 
+}
+function showNotifDetailsForm()
+{
+ 
+  
+  frmNotificationDetails.show();
+}
+
 function preshowFrmNotification()
 {
   var data1 = { 

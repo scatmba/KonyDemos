@@ -1,17 +1,10 @@
 {
-    "AS_Segment_d00287168c4c43538d13b05afceaee6d": {
-        "id": "AS_Segment_d00287168c4c43538d13b05afceaee6d",
+    "AS_Form_b7048a79a4ac40eba5f541d434aa4e42": {
+        "id": "AS_Form_b7048a79a4ac40eba5f541d434aa4e42",
         "type": "ACTION_SEQUENCE",
-        "name": "action_navigation_frmNotificationDeatails",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
-        }, {
-            "datatype": "number",
-            "name": "sectionNumber"
-        }, {
-            "datatype": "number",
-            "name": "rowNumber"
         }],
         "contextObj": {
             "name": "frmNotification",
@@ -21,10 +14,10 @@
         },
         "language": "js",
         "actions": [{
-            "id": "INVOKE_FUNCTION___d433a04049764813b17f56d77c867285",
+            "id": "INVOKE_FUNCTION___bf540bfd9b4f436e92eb5e5682cb421e",
             "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "showNotifDetailsForm",
-            "display": "showNotifDetailsForm",
+            "sequenceKUID": "notificationformInit",
+            "display": "notificationformInit",
             "inputparams": [],
             "parentId": null,
             "callbackType": null,

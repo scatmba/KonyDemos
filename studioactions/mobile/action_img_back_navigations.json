@@ -1,0 +1,35 @@
+{
+    "AS_Image_c52b04ec732f4be5b4870fc8b729fde3": {
+        "id": "AS_Image_c52b04ec732f4be5b4870fc8b729fde3",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_img_back_navigations",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "tempNotificationHeader",
+            "type": "templates",
+            "platform": "",
+            "KUID": "b0a4a32be0b44e6383a488b806d73465"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a45e1fe9edf44425a3c60b7a3696fba6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "imgBackNavigations",
+            "display": "imgBackNavigations",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

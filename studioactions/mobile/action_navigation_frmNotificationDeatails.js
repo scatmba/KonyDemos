@@ -3,5 +3,5 @@ function action_navigation_frmNotificationDeatails(eventobject, sectionNumber, r
 }
 
 function AS_Segment_d00287168c4c43538d13b05afceaee6d(eventobject, sectionNumber, rowNumber) {
-    frmNotificationDetails.show();
+    return showNotifDetailsForm.call(this);
 }
