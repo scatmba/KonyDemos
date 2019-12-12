@@ -14,8 +14,8 @@
         },
         "language": "js",
         "actions": [{
-            "id": "MOVE_ACTION____ia616f0ce9184388962fb9b68c6d65f3",
-            "type": "MOVE_ACTION",
+            "id": "TRANSFORM_ACTION_NEW____d4fbf04bb2e44266a44a35ec49491be7",
+            "type": "TRANSFORM_ACTION_NEW",
             "itemType": "FORM",
             "itemId": "frmSplash",
             "widgetId": "flxMain",
@@ -26,7 +26,9 @@
                 "anchorPoint": {},
                 "stepConfig": {
                     "timingFunction": "kony.anim.EASE"
-                }
+                },
+                "left": "0dp",
+                "top": "0dp"
             },
             "config": {
                 "delay": "700",
@@ -35,34 +37,21 @@
                 "duration": "250"
             },
             "start": "Immediately",
-            "animationId": "MOVE_ACTION____ia616f0ce9184388962fb9b68c6d65f3",
-            "displayAnimationId": "MOVE_ACTION____ia616f0ce9184388962fb9b68c6d65f3",
+            "animationId": "TRANSFORM_ACTION_NEW____d4fbf04bb2e44266a44a35ec49491be7",
+            "displayAnimationId": "TRANSFORM_ACTION_NEW____d4fbf04bb2e44266a44a35ec49491be7",
             "forkedPlatform": "all",
             "parentId": null,
             "callbackType": null,
-            "disabled": true,
+            "disabled": false,
             "widgetPath": "frmSplash.flxMain"
         }, {
-            "id": "NAVIGATE_TO_FORM___d73df612dcb348489ea2afeff9105fe5",
+            "id": "NAVIGATE_TO_FORM___gdbdbc869aef4cc383b0328c457ff61e",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmDashboard",
-            "formKUID": "e0b161af8297410b954274417d93e3e5",
+            "formId": "frmLogin",
+            "formKUID": "c312b3df2aaa4c0eb8d6af4c2ccf3745",
             "mappings": {},
             "mappingsOrder": [],
-            "parentId": "",
-            "callbackType": null,
-            "enableMappingEditor": true,
-            "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"postShow\",\n        \"widgetId\": \"frmSplash\"\n    }\n}",
-            "isCustomInput": false
-        }, {
-            "id": "NAVIGATE_TO_FORM___gd0c81c7d39a403bbb9f6d2cd084cf9f",
-            "type": "NAVIGATE_TO_FORM",
-            "formId": "frmDashboard",
-            "formKUID": "e0b161af8297410b954274417d93e3e5",
-            "mappings": {},
-            "mappingsOrder": [],
-            "parentId": "MOVE_ACTION____ia616f0ce9184388962fb9b68c6d65f3",
+            "parentId": "TRANSFORM_ACTION_NEW____d4fbf04bb2e44266a44a35ec49491be7",
             "callbackType": "Callback",
             "enableMappingEditor": true,
             "package": "",

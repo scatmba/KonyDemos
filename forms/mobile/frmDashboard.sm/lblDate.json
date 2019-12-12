@@ -55,7 +55,7 @@
         }
     },
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "a029367ce0384898b05c757c94b35625",
     "name": "kony.ui.Label",
     "parent": "flxDueDateImg",

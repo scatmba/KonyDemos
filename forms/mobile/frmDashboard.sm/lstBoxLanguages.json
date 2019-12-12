@@ -1,6 +1,9 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizListBox",
     "DNDConfig": null,
+    "Default": {
+        "contentAlignment": 5
+    },
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
@@ -13,7 +16,7 @@
         0
     ],
     "_padding_": [
-        3,
+        0,
         0,
         0,
         0
@@ -26,7 +29,10 @@
     "_skin_": "sba3670f38f94d61a3305891b3ae611c",
     "_width_": {
         "type": "string",
-        "value": "15%"
+        "value": "18%"
+    },
+    "android": {
+        "contentAlignment": 6
     },
     "canUpdateUI": true,
     "centery": {
@@ -34,7 +40,7 @@
         "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 4,
+    "contentalignment": 5,
     "dropdownimage": "dropdown.png",
     "focusskin": "s276c3cbc4d84f488cd56aec0f45d5e5",
     "groupcells": false,
@@ -54,6 +60,7 @@
         ]
     ],
     "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
     "parent": "flxUserDetails",
     "pf": "frmDashboard",
     "retaincontentalignment": false,

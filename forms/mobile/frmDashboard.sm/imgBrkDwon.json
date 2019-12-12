@@ -24,7 +24,7 @@
         "value": "20dp"
     },
     "_skin_": "sef10702b5794234967671902852aae2",
-    "_src_": "imagedrag.png",
+    "_src_": "breakdown.PNG",
     "_top_": {
         "type": "string",
         "value": "30dp"
@@ -45,6 +45,7 @@
     "id": "imgBrkDwon",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "g8522849fb39483988b1331940af7f60",

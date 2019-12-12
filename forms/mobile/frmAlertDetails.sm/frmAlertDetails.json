@@ -41,6 +41,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmAlertDetails",
+    "ide_init": "AS_Form_hbdb754da9e44e659b55c9e4c9def7bf",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

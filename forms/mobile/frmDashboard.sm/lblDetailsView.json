@@ -22,7 +22,7 @@
     "_text_": "Detailed View",
     "_top_": {
         "type": "string",
-        "value": "325dp"
+        "value": "300dp"
     },
     "_width_": {
         "type": "ref",
@@ -65,5 +65,5 @@
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",
-    "zindex": 4
+    "zindex": 2
 }

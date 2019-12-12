@@ -5,7 +5,7 @@
   "androidwearos": {
     "font_name": "default"
   },
-  "background_image": "outstanding.PNG",
+  "background_image": "duedate.PNG",
   "bg_type": "image",
   "border_color": "000000ff",
   "border_style": "plain",
@@ -24,7 +24,7 @@
   "kiosk": {
     "font_name": "None"
   },
-  "kuid": "s98d961d64ef4234bcf8eb1500808149",
+  "kuid": "s2fb964b717742678ddd3289827315ab",
   "spaan": {
     "font_name": "Helvetica"
   },
