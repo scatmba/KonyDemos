@@ -40,7 +40,7 @@
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "45%"
     },
     "containerweight": 100,
     "context": {

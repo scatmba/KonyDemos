@@ -1,0 +1,38 @@
+{
+    "AS_Segment_d00287168c4c43538d13b05afceaee6d": {
+        "id": "AS_Segment_d00287168c4c43538d13b05afceaee6d",
+        "type": "ACTION_SEQUENCE",
+        "name": "action_navigation_frmNotificationDeatails",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmNotification",
+            "type": "forms",
+            "platform": "",
+            "KUID": "b218a0523812476c8e3b1b93f73eed85"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___bac5110e9c574564966cdb3305fbe0d4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNotificationDetails",
+            "formKUID": "ha3e3c79c899415094e125741c57b970",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"segmentNotification\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

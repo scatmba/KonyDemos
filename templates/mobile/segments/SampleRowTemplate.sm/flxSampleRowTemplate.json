@@ -26,7 +26,8 @@
         "lblHeading",
         "lblDescription",
         "lblTime",
-        "lblStrip"
+        "lblStrip",
+        "flxDisable"
     ],
     "clipbounds": true,
     "containerId": true,

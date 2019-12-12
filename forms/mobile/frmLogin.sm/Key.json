@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s8cdcc90e1ba42929bb919beacf32867",
+    "_skin_": "s1cb279545e64d3e843baea4f7d55f3f",
     "_text_": "",
     "_width_": {
         "type": "string",
@@ -38,7 +38,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "-9%"
+        "value": "-8%"
     },
     "containerweight": 100,
     "contentalignment": 4,

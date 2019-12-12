@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "15%"
+        "value": "0%"
     },
     "_margin_": [
         1,
@@ -26,11 +26,11 @@
     "_text_": "Forgot User Name/Password?",
     "_top_": {
         "type": "string",
-        "value": "10%"
+        "value": "0.00%"
     },
     "_width_": {
-        "type": "string",
-        "value": "90%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,6 +40,14 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "id": "lblForgotPwd",
@@ -58,7 +66,7 @@
     "isvisible": true,
     "kuid": "e495076e1ee9455e953566df5e905f15",
     "name": "kony.ui.Label",
-    "parent": "flxSignInDetails",
+    "parent": "FlexContainer0fac83b8a0d5945",
     "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

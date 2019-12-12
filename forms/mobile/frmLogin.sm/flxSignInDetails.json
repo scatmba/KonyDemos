@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "78%"
+        "value": "83%"
     },
     "_left_": {
         "type": "string",
@@ -41,7 +41,7 @@
         "User",
         "tbxPassword",
         "Key",
-        "lblForgotPwd"
+        "FlexContainer0fac83b8a0d5945"
     ],
     "clipbounds": true,
     "containerweight": 100,

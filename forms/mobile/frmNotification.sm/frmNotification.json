@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "segmentNotification"
+    ],
     "containerweight": 100,
     "currentLocale": "default",
     "desktopweb": {
@@ -38,10 +40,14 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "header": "frmNotification_header",
+    "headersId": "b0a4a32be0b44e6383a488b806d73465",
+    "id": "frmNotification",
+    "ide_preShow": "AS_Form_b569ff47edc34dd7ae077765c41fee30",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
+    "invokedProperty": "headers",
     "ipad": {
         "needAppMenu": false,
         "psp": {

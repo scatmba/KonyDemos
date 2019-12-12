@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "20%"
+        "value": "8%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "7%"
     },
     "_margin_": [
         0,
@@ -23,14 +23,14 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s7fe636da62147a6ab429c18678e169e",
+    "_skin_": "s78250e7f74d4314ba8e2372f3a32653",
     "_top_": {
         "type": "string",
         "value": "2%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "86%"
     },
     "allboxes": [],
     "autogrowmode": 0,
@@ -49,7 +49,7 @@
     "kuid": "cbce08ae476a4741a7135e1760b4b9de",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxInner",
+    "parent": "fscMain",
     "pf": "frmLogin",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

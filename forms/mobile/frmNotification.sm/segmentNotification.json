@@ -1,0 +1,427 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationgrey.png"
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationblue.png"
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hi! Bill dated 27-Nov-19 for Rs 1567.67 for your Consumer"
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hi! Bill dated 27-Nov-19 for Rs 1567.67 for your Consumer"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationgrey.png"
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationblue.png"
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hi! Bill dated 27-Nov-19 for Rs 1567.67 for your Consumer"
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hi! Bill dated 27-Nov-19 for Rs 1567.67 for your Consumer"
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationgrey.png"
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationblue.png"
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hi! Bill dated 27-Nov-19 for Rs 1567.67 for your Consumer"
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationgrey.png"
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "notificationblue.png"
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Due"
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Hi! Bill dated 27-Nov-19 for Rs 1567.67 for your Consumer"
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "6:57AM"
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "imgNotification": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "imgNotificationEnable": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": ""
+            },
+            "lblBillDue": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblBillDueDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessage": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblMessageDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTimeDisable": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "08",
+    "disabledSkins": {
+        "rowFocusSkin": "s0206ad6d18c4d38b46a331492257e39"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentNotification",
+    "ide_onRowClick": "AS_Segment_d00287168c4c43538d13b05afceaee6d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fe451cf3283741d8a5588bcfedfefe34",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "frmNotification",
+    "pf": "frmNotification",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "fc0f3075a86e4cb49345090cf4db0c55",
+    "rowcounter": 8,
+    "rowskin": "s13af73a28fe4fbcba44bcc78dc99544",
+    "rowtemplate": "flxNotificationseg",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s24d75ca9c4246ea84b277b75a18e5af",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flx1": "flx1",
+        "flx2": "flx2",
+        "flxBillDue": "flxBillDue",
+        "flxBillDueDisable": "flxBillDueDisable",
+        "flxDisable": "flxDisable",
+        "flxEnable": "flxEnable",
+        "flxImgNotification": "flxImgNotification",
+        "flxImgNotificationEnable": "flxImgNotificationEnable",
+        "flxNotificationseg": "flxNotificationseg",
+        "flxRound": "flxRound",
+        "flxRoundEnable": "flxRoundEnable",
+        "imgNotification": "imgNotification",
+        "imgNotificationEnable": "imgNotificationEnable",
+        "lblBillDue": "lblBillDue",
+        "lblBillDueDisable": "lblBillDueDisable",
+        "lblMessage": "lblMessage",
+        "lblMessageDisable": "lblMessageDisable",
+        "lblTime": "lblTime",
+        "lblTimeDisable": "lblTimeDisable"
+    },
+    "zindex": 1
+}

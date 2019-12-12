@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "35%"
+        "value": "40%"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +26,7 @@
     "_skin_": "s78250e7f74d4314ba8e2372f3a32653",
     "_top_": {
         "type": "string",
-        "value": "4%"
+        "value": "-1%"
     },
     "_width_": {
         "type": "string",
@@ -36,7 +36,6 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "flxSignInSignUp",
         "flxSignInDetails"
     ],
     "clipbounds": true,

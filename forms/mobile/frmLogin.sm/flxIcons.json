@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "7%"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -26,11 +26,11 @@
     "_skin_": "s7fe636da62147a6ab429c18678e169e",
     "_top_": {
         "type": "string",
-        "value": "4%"
+        "value": "3%"
     },
     "_width_": {
         "type": "string",
-        "value": "86%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,

@@ -27,7 +27,7 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "8%"
+        "value": "6%"
     },
     "_width_": {
         "type": "string",
@@ -42,7 +42,9 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "s8ced50801634e9aa55fd9ee02a43d32",
+    "disabledSkins": {
+        "focusSkin": "s8ced50801634e9aa55fd9ee02a43d32"
+    },
     "id": "tbxUsername",
     "info": null,
     "iscustomlayout": false,

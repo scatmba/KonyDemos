@@ -39,9 +39,13 @@
     "canUpdateUI": true,
     "children": [
         "btnQuickBillPay",
+        "flxSignInSignUp",
         "flxInner",
+        "flxInner2",
         "btnLogIn",
-        "flxIcons"
+        "flxIcons",
+        "AngleDown",
+        "flxCards"
     ],
     "clipbounds": true,
     "containerweight": 100,
