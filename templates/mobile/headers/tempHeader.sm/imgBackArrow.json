@@ -27,7 +27,7 @@
     "_src_": "backarrow.png",
     "_top_": {
         "type": "string",
-        "value": "30px"
+        "value": "48%"
     },
     "_width_": {
         "type": "string",
@@ -43,6 +43,7 @@
         "topLevelBox": null
     },
     "id": "imgBackArrow",
+    "ide_onTouchStart": "AS_Image_b577c80a8e6340aea347ccaebf652794",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",

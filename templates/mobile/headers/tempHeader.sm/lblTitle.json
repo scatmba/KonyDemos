@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "5%"
+        "value": "8%"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sc966e61a77f437cba9f36ab962577ae",
+    "_skin_": "s5f98c46af3f4d2094b6247e5a5545e6",
     "_text_": "Make Payment",
     "_top_": {
         "type": "string",
-        "value": "45px"
+        "value": "54%"
     },
     "_width_": {
         "type": "string",

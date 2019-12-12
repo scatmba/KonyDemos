@@ -1,0 +1,66 @@
+{
+    "AS_Button_c7359dfb02d84dcca8732fc4ece04868": {
+        "id": "AS_Button_c7359dfb02d84dcca8732fc4ece04868",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tempFooter",
+            "type": "templates",
+            "platform": "",
+            "KUID": "be2ff757445e43e7bb000140226408ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___bb95218750224b1287b7a51aabdb61d3",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmMakePayment",
+            "widgetId": "flxSMakePayment",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "ie8fd6ea6b2b45a1a329b73fd639bc42",
+            "widgetKUID": "j747f68938d74436ae38fe6e2933dc96",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmMakePayment.flxSMakePayment"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___j701c26c40fd4c01921c80aab1650d94",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmMakePayment",
+            "widgetId": "flxSpaymentSuccessful",
+            "propertyName": "isVisible",
+            "propertyValue": "false",
+            "itemKUID": "ie8fd6ea6b2b45a1a329b73fd639bc42",
+            "widgetKUID": "b16895c0dc3c41b3a31141c729d8dbc0",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmMakePayment.flxSpaymentSuccessful"
+        }, {
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___c76d0067cc8047ccba8deeb2880bf58e",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmMakePayment",
+            "widgetId": "flxSotp",
+            "propertyName": "isVisible",
+            "propertyValue": "true",
+            "itemKUID": "ie8fd6ea6b2b45a1a329b73fd639bc42",
+            "widgetKUID": "b28ae64b32224300abcc9db496e6fe61",
+            "isSkinProperty": false,
+            "wType": "FlexScrollContainer",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmMakePayment.flxSotp"
+        }]
+    }
+}

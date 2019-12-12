@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "57.63%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "23dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sef10702b5794234967671902852aae2",
+    "_src_": "ticksuccess.png",
+    "_top_": {
+        "type": "string",
+        "value": "33dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "67.80%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "frmMakePayment",
+        "platform": "android",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgSuccessTick",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ccd101d216bb44478b9cd558295327aa",
+    "name": "kony.ui.Image2",
+    "parent": "flxImgTickSuccess",
+    "pf": "frmMakePayment",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

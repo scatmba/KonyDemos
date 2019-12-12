@@ -27,7 +27,7 @@
     "_src_": "hsbc.png",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
@@ -38,6 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmMakePayment",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },

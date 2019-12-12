@@ -1,0 +1,34 @@
+{
+    "AS_Image_b577c80a8e6340aea347ccaebf652794": {
+        "id": "AS_Image_b577c80a8e6340aea347ccaebf652794",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "tempHeader",
+            "type": "templates",
+            "platform": "",
+            "KUID": "ef1a24f19ed74c09b6800ee37e566154"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e33bb40791b142e2adb0f7f1c21db98e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickBackArrow",
+            "display": "onClickBackArrow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

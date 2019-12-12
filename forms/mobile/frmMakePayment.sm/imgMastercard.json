@@ -7,10 +7,6 @@
         "type": "string",
         "value": "70dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "217dp"
-    },
     "_margin_": [
         0,
         0,
@@ -23,11 +19,15 @@
         0,
         0
     ],
+    "_right_": {
+        "type": "string",
+        "value": "0.00%"
+    },
     "_skin_": "sef10702b5794234967671902852aae2",
     "_src_": "mastercard.png",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
@@ -38,6 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmMakePayment",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },

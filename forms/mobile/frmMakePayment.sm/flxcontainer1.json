@@ -26,7 +26,7 @@
     "_skin_": "s7fe636da62147a6ab429c18678e169e",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "5%"
     },
     "_width_": {
         "type": "string",
@@ -40,7 +40,8 @@
         "lblConsumerid",
         "lblAmount",
         "lblID",
-        "lblViewBillDetails"
+        "lblViewBillDetails",
+        "imgBillDetails"
     ],
     "clipbounds": true,
     "containerweight": 100,

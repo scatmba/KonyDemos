@@ -1,0 +1,28 @@
+{
+    "AS_Button_gd552ea4eb884471854a9ee33f488e91": {
+        "id": "AS_Button_gd552ea4eb884471854a9ee33f488e91",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "tempFooter",
+            "type": "templates",
+            "platform": "",
+            "KUID": "be2ff757445e43e7bb000140226408ae"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g93efcb7a2ef42868746a9a1a310f47a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickButton2",
+            "display": "onClickButton2",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

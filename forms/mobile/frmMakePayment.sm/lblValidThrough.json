@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "110dp"
+        "value": "140dp"
     },
     "_margin_": [
         1,
@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "sc9bb25c6fa944eb9701c319bff940ec",
-    "_text_": "VALID THROUGH",
+    "_text_": "VALID THRU",
     "_top_": {
         "type": "string",
-        "value": "130dp"
+        "value": "150dp"
     },
     "_width_": {
         "type": "ref",

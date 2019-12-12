@@ -21,7 +21,7 @@
     "allboxes": [],
     "canUpdateUI": true,
     "children": [
-        "flxTempFooter"
+        "flxTempFooter2"
     ],
     "containerId": true,
     "containerweight": 100,
@@ -38,7 +38,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "j053d60a7c4849148ddc0397486acf00",
+    "kuid": "be2ff757445e43e7bb000140226408ae",
     "name": "kony.ui.Form2",
     "needappmenu": true,
     "outtransitionconfig": {

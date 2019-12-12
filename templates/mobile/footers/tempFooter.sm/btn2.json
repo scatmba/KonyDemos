@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8083a4a8a484858ab9f7a874d28cabc",
+    "_text_": "Make Favorite",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s8fc1766ba39484d81418868c79f45a5"
+    },
+    "displaytext": true,
+    "id": "btn2",
+    "ide_onClick": "AS_Button_gd552ea4eb884471854a9ee33f488e91",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g6e5b555b0564614909f7e4575d63d77",
+    "name": "kony.ui.Button",
+    "parent": "flxTempFooter2",
+    "pf": "tempFooter",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

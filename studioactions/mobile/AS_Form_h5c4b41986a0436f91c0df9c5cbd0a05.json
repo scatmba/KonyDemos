@@ -1,0 +1,28 @@
+{
+    "AS_Form_h5c4b41986a0436f91c0df9c5cbd0a05": {
+        "id": "AS_Form_h5c4b41986a0436f91c0df9c5cbd0a05",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmMakePayment",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie8fd6ea6b2b45a1a329b73fd639bc42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cf675331077d4258a971df3ff8e521ce",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "paymentPreshow",
+            "display": "paymentPreshow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

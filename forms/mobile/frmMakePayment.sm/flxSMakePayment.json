@@ -40,7 +40,8 @@
     "children": [
         "flxcontainer1",
         "flxcontainer2",
-        "flxcontainer3"
+        "flxcontainer3",
+        "flccontainer4"
     ],
     "clipbounds": true,
     "containerweight": 100,

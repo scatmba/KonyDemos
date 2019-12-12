@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "225dp"
+        "value": "68%"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "View Bill details",
     "_top_": {
         "type": "string",
-        "value": "68%"
+        "value": "72%"
     },
     "_width_": {
         "type": "ref",

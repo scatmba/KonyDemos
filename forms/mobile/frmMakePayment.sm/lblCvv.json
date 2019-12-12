@@ -3,12 +3,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
-        "type": "string",
-        "value": "21dp"
+        "type": "ref",
+        "value": "preferred"
     },
     "_left_": {
         "type": "string",
-        "value": "20%"
+        "value": "6%"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "sba766e6ba744db9b24d191bb070c379",
-    "_text_": "Make Payment",
+    "_skin_": "seea2f32ed6e4b838a7b039186b05699",
+    "_text_": "Enter CVV",
     "_top_": {
         "type": "string",
-        "value": "45px"
+        "value": "30dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "60%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,10 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "lblText",
+    "contentalignment": 4,
+    "id": "lblCvv",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e6e5e185659c4c4daa4cb8dd72e6d0de",
+    "kuid": "eb8d9306e671400a9e45dbd22112e68c",
     "name": "kony.ui.Label",
-    "parent": "flxTempFooter",
-    "pf": "tempFooter",
+    "parent": "flccontainer4",
+    "pf": "frmMakePayment",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

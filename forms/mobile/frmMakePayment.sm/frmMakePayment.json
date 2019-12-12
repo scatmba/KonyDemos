@@ -31,7 +31,9 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxSMakePayment"
+        "flxSMakePayment",
+        "flxSotp",
+        "flxSpaymentSuccessful"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -42,10 +44,11 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "footer": "frmMakePayment_footer",
-    "footersId": "j053d60a7c4849148ddc0397486acf00",
+    "footersId": "be2ff757445e43e7bb000140226408ae",
     "header": "frmMakePayment_header",
     "headersId": "ef1a24f19ed74c09b6800ee37e566154",
     "id": "frmMakePayment",
+    "ide_preShow": "AS_Form_h5c4b41986a0436f91c0df9c5cbd0a05",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

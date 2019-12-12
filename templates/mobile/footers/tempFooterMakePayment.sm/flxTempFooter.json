@@ -35,7 +35,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblText"
+        "btnMakePayment"
     ],
     "clipbounds": true,
     "containerId": true,
@@ -48,8 +48,8 @@
     "kuid": "ac2b8195a8f84e17ba812110e61180ee",
     "layouttype": 3,
     "name": "kony.ui.FlexContainer",
-    "parent": "tempFooter",
-    "pf": "tempFooter",
+    "parent": "tempFooterMakePayment",
+    "pf": "tempFooterMakePayment",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
