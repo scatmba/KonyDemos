@@ -55,7 +55,7 @@
             "callbackType": "Callback",
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"postShow\",\n        \"widgetId\": \"frmSplash\"\n    }\n}",
+            "navigationObj": "{\n\"_meta_\" : {\n\t\"eventName\" : \"postShow\",\n\t\"widgetId\" : \"frmSplash\"\n}\n}",
             "isCustomInput": false
         }]
     }

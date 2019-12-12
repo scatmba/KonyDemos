@@ -46,15 +46,14 @@ function postShowFrmDashboard(){
 }
 
 function onRowClickSegMenuOptions(){
-  var data = frmDashboard.segMenuOptions.data;
-  //alert(JSON.stringify(data))
-  for(i=0;i<data.length;i++){
-    if(data[i]["lblMenuOptions"] === "Logout"){
+  var data = frmDashboard.segMenuOptions.selectedRowItems[0].lblMenuOptions;
+  alert(JSON.stringify(data))
+    if(data === "Logout"){
       frmLogin.show();
-    }else if(data[i]["lblMenuOptions"] === "Bill Pay"){
-      //
+    }else if(data === "Bill Pay"){
+      frmMakePayment.show();
     }
-  }
+  
 }
 
 function dismissPopup(){
