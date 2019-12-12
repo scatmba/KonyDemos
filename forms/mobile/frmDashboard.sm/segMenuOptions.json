@@ -1,0 +1,162 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "My Profile"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Change Password"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Notifications"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Settings"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bill Pay"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Account Management"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Recharge/Payment History"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "About DPDC"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Contact Us"
+            }
+        },
+        {
+            "lblMenuOptions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Logout"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "f2b1a87e62cf46e1a2029a32820b4a2c",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segMenuOptions",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d519f6d624d84beaad61a8fe4c5d3f5c",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxHamMuenuOptions",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f2b1a87e62cf46e1a2029a32820b4a2c",
+    "rowcounter": 9,
+    "rowfocusskin": "s2849c2ba10840eabf64ec25616f3554",
+    "rowskin": "s2849c2ba10840eabf64ec25616f3554",
+    "rowtemplate": "FBox0e02f72179ecd44",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sac88473f87f4feba74674c7ff0b8a63",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "lblMenuOptions": "lblMenuOptions"
+    },
+    "zindex": 1
+}

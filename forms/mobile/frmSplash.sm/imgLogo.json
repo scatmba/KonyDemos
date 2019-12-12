@@ -38,6 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmSplash",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },

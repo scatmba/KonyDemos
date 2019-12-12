@@ -48,7 +48,7 @@
     "kuid": "ba468893816c41198f985595f34d8b8b",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmSplash",
+    "parent": "flxMain",
     "pf": "frmSplash",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

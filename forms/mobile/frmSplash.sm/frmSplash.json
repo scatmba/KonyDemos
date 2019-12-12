@@ -30,8 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxLogo",
-        "lblDesc"
+        "flxMain"
     ],
     "containerweight": 100,
     "currentLocale": "default",
@@ -42,6 +41,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmSplash",
+    "ide_postShow": "AS_Form_be28be4ecdd140c1a1f5e7f0dbc967f6",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

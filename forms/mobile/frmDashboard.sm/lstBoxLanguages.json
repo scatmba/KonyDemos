@@ -1,0 +1,77 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_right_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_skin_": "sba3670f38f94d61a3305891b3ae611c",
+    "_width_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "dropdown.png",
+    "focusskin": "s276c3cbc4d84f488cd56aec0f45d5e5",
+    "groupcells": false,
+    "id": "lstBoxLanguages",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e39ae0d957b2441bbcd547a2a8ef82f0",
+    "masterdata": [
+        [
+            "lb1",
+            "EN"
+        ],
+        [
+            "lb2",
+            "HINDI"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxUserDetails",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "lb1",
+        "EN"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

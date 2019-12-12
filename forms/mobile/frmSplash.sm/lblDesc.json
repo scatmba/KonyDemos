@@ -58,7 +58,7 @@
     "isvisible": true,
     "kuid": "bb3c29b467b94e989176388242f95111",
     "name": "kony.ui.Label",
-    "parent": "frmSplash",
+    "parent": "flxMain",
     "pf": "frmSplash",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

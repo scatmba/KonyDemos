@@ -1,0 +1,59 @@
+{
+    "AS_Form_g1b8ef1bf5e249578b324a3852489ffe": {
+        "id": "AS_Form_g1b8ef1bf5e249578b324a3852489ffe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSplash",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c6198b5389714b9d9403a466c5717d1d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "TRANSFORM_ACTION_NEW____cb92929fd5b74c908de4aa9dc4735590",
+            "type": "TRANSFORM_ACTION_NEW",
+            "itemType": "FORM",
+            "itemId": "frmSplash",
+            "widgetId": "flxMain",
+            "itemKUID": "c6198b5389714b9d9403a466c5717d1d",
+            "widgetKUID": "je01f18ec5774d1fbc7f15860f319523",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "700",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "TRANSFORM_ACTION_NEW____cb92929fd5b74c908de4aa9dc4735590",
+            "displayAnimationId": "TRANSFORM_ACTION_NEW____cb92929fd5b74c908de4aa9dc4735590",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmSplash.flxMain"
+        }, {
+            "id": "NAVIGATE_TO_FORM___fe0f52f1a4c4438a8d7f55653d290932",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboard",
+            "formKUID": "e0b161af8297410b954274417d93e3e5",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "TRANSFORM_ACTION_NEW____cb92929fd5b74c908de4aa9dc4735590",
+            "callbackType": "Callback",
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}
