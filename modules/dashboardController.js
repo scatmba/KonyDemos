@@ -20,6 +20,7 @@ function initializefrmDashboardEvents(){
   frmDashboard.btnPayNowOrSeeDetails.onClick = function(){
     onClickPayNowOrSeeDetails();
   }
+  frmDashboard.lstBoxLanguages.onSelection = chooseLanguage;​
 } 
 
 function onclickOfHamMenuIcon(){
@@ -83,3 +84,36 @@ function preShowFrmDashboard(){
   frmDashboard.enableScrolling = true;
   frmDashboard.flxScrollMain.enableScrolling = true;
 }
+
+function chooseLanguage()
+{
+  var language = frmDashboard.lstBoxLanguages.selectedKeyValue[1];  
+  if(language === "EN")
+    {
+      kony.i18n.setCurrentLocaleAsync("en_US", onsuccesscallback, onfailurecallback,"");
+      destroyPages();
+    }
+  else
+    {
+      kony.i18n.setCurrentLocaleAsync("hi_IN", onsuccesscallback, onfailurecallback,"");
+      destroyPages();
+    }
+  
+}
+
+function onsuccesscallback(oldlocalename, newlocalename){
+  frmDashboard.lblWelcomeText.text = kony.i18n.getLocalizedString("welcometext");
+  frmLogin.btnLogIn.text = kony.i18n.getLocalizedString("logintext");
+  frmDashboard.lblTotalOutstText.text = kony.i18n.getLocalizedString("totalOutstanding");
+  frmDashboard.lblCustIDText.text = kony.i18n.getLocalizedString("customerID");
+  frmDashboard.lblDueDateText.text = kony.i18n.getLocalizedString("dueDate");
+}
+
+function onfailurecallback(errCode, errMsg){
+  alert(errCode +" "+errMsg)
+}
+
+function destroyPages(){
+  frmDashboard.forceLayout();
+  frmLogin.forceLayout();
+}​
