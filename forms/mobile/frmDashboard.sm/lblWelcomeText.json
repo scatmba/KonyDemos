@@ -62,6 +62,7 @@
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
+    "texti18n": "dashboard_welcomeText",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

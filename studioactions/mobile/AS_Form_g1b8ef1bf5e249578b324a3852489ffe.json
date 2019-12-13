@@ -52,7 +52,7 @@
             "callbackType": "Callback",
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n\"_meta_\" : {\n\t\"eventName\" : \"\",\n\t\"widgetId\" : \"\"\n}\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
             "isCustomInput": false
         }]
     }

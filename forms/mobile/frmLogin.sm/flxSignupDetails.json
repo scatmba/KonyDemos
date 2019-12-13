@@ -39,11 +39,12 @@
         "lblSignupMessage",
         "imgProfilePic",
         "btnUploadPhoto",
-        "tbxName",
-        "tbxCustId",
-        "tbxMobNo",
-        "tbxEmailId",
-        "tbxNationId"
+        "flxName",
+        "flxCustId",
+        "flxMobNo",
+        "flxEmailId",
+        "flxNationId",
+        "flxNationalNumber"
     ],
     "clipbounds": true,
     "containerweight": 100,

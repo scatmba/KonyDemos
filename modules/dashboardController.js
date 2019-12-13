@@ -20,14 +20,8 @@ function initializefrmDashboardEvents(){
   frmDashboard.btnPayNowOrSeeDetails.onClick = function(){
     onClickPayNowOrSeeDetails();
   }
-  frmDashboard.lblNotifNum.onTouchStart = function(){
-    ShowNotificationForm();
-  }
 } 
-function ShowNotificationForm()
-{
-  frmNotification.show();
-}
+
 function onclickOfHamMenuIcon(){
   frmDashboard.flxMenu.setVisibility(true);
   frmDashboard.enableScrolling = false;
@@ -49,28 +43,29 @@ function postShowFrmDashboard(){
   frmDashboard.enableScrolling = false;
   frmDashboard.flxScrollMain.enableScrolling = false;
   frmDashboard.flxPopup.setVisibility(true);  
+  //var enLocaledata = JSON.stringify()
 }
 
 function onRowClickSegMenuOptions(){
   var data = frmDashboard.segMenuOptions.selectedRowItems[0].lblMenuOptions;
-<<<<<<< HEAD
   //alert(JSON.stringify(data))
-  
-    if(data=== "Logout"){
-      frmLogin.show();
-    }else if(data === "Bill Pay"){
-      frmMakePayment.show();
-    
-  }
-=======
-  alert(JSON.stringify(data))
     if(data === "Logout"){
+       frmLogin.tbxUsername.text = "";
+      frmLogin.tbxPassword.text = "";
+       frmLogin.tbxName.text = "";
+      frmLogin.tbxCustId.text = "";
+     frmLogin.tbxMobNo.text = "";
+     frmLogin.tbxEmailId.text = "";
+      frmLogin.tbxNationId.text = "";
+      frmLogin.tbxNationalNumber.text = "";
+      
+   signIn();
+
       frmLogin.show();
     }else if(data === "Bill Pay"){
       frmMakePayment.show();
     }
   
->>>>>>> bc4da773848f42902a52ee0a437da42d451e6722
 }
 
 function dismissPopup(){

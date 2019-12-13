@@ -36,7 +36,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "btnSgnin",
+        "btnSihnin",
         "line1"
     ],
     "clipbounds": true,

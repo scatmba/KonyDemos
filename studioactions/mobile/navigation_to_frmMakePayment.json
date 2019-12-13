@@ -1,0 +1,32 @@
+{
+    "AS_Button_j4e3ff876b9d461ea22a59928d71283e": {
+        "id": "AS_Button_j4e3ff876b9d461ea22a59928d71283e",
+        "type": "ACTION_SEQUENCE",
+        "name": "navigation_to_frmMakePayment",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e0b161af8297410b954274417d93e3e5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___hcc49202ee29480981428780a6f89172",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmMakePayment",
+            "formKUID": "ie8fd6ea6b2b45a1a329b73fd639bc42",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnPayNow\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

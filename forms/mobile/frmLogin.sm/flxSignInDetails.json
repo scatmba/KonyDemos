@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "90%"
+        "value": "83%"
     },
     "_left_": {
         "type": "string",
@@ -37,10 +37,8 @@
     "canUpdateUI": true,
     "children": [
         "lblLoginMsg",
-        "tbxUsername",
-        "User",
-        "tbxPassword",
-        "Key",
+        "flxUsername",
+        "flxPassword",
         "FlexContainer0fac83b8a0d5945"
     ],
     "clipbounds": true,

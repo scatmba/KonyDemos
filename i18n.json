@@ -1,11 +1,19 @@
 {
     "keys": [
+        "customerID",
+        "dueDate",
+        "logintext",
+        "totalOutstanding",
         "welcometext"
     ],
     "locales": {
         "en_US": {
             "i18nStrings": {
-                "welcometext": "Welcome"
+                "customerID": "Customer ID",
+                "dueDate": "Due Date",
+                "logintext": "Login",
+                "totalOutstanding": "Total OutStanding",
+                "welcometext": "Welcome!"
             },
             "isCustomLocale": false,
             "isSelected": true,
@@ -17,6 +25,10 @@
         },
         "hi_IN": {
             "i18nStrings": {
+                "customerID": "ग्राहक संख्या",
+                "dueDate": " नियत तारीख",
+                "logintext": " लॉग इन करें",
+                "totalOutstanding": " कुल बकाया",
                 "welcometext": "स्वागत हे"
             },
             "isCustomLocale": false,
