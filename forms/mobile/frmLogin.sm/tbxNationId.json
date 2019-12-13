@@ -33,6 +33,7 @@
         "type": "string",
         "value": "80%"
     },
+    "android": {},
     "autocapitalize": "none",
     "autocomplete": false,
     "autocorrect": false,
@@ -55,7 +56,7 @@
     "name": "kony.ui.TextBox2",
     "parent": "flxSignupDetails",
     "pf": "frmLogin",
-    "placeholderskin": "sb966e955a0c48339522f9a1c36ab97d",
+    "placeholderskin": "s9b16125b35e470685926d6efc21bc26",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

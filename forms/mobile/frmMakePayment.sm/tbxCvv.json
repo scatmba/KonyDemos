@@ -31,7 +31,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "59%"
+        "value": "54%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -42,7 +42,9 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "s8ced50801634e9aa55fd9ee02a43d32",
+    "disabledSkins": {
+        "focusSkin": "s8ced50801634e9aa55fd9ee02a43d32"
+    },
     "id": "tbxCvv",
     "info": null,
     "iscustomlayout": false,

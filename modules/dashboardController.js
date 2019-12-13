@@ -53,6 +53,7 @@ function postShowFrmDashboard(){
 
 function onRowClickSegMenuOptions(){
   var data = frmDashboard.segMenuOptions.selectedRowItems[0].lblMenuOptions;
+<<<<<<< HEAD
   //alert(JSON.stringify(data))
   
     if(data=== "Logout"){
@@ -61,6 +62,15 @@ function onRowClickSegMenuOptions(){
       frmMakePayment.show();
     
   }
+=======
+  alert(JSON.stringify(data))
+    if(data === "Logout"){
+      frmLogin.show();
+    }else if(data === "Bill Pay"){
+      frmMakePayment.show();
+    }
+  
+>>>>>>> bc4da773848f42902a52ee0a437da42d451e6722
 }
 
 function dismissPopup(){

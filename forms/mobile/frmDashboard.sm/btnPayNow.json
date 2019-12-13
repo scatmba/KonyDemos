@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s237de0f77e64f3eb2657eb368760b5b",
     "id": "btnPayNow",
+    "ide_onClick": "AS_Button_d486dbbe01524d268ace13609a1cddc6",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

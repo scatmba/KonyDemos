@@ -77,4 +77,7 @@ function onClickBackArrow(){
      frmMakePayment.footers[0].btn2.text="Make Payment";
      frmMakePayment.tbxCvv.text="";
   } 
+   else  if(btnText=="Make Payment"){
+     frmDashboard.show();
+}
 }

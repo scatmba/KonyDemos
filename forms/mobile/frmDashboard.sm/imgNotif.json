@@ -43,6 +43,7 @@
         "topLevelBox": null
     },
     "id": "imgNotif",
+    "ide_onTouchStart": "AS_Image_b729e137d2dc4c9498883659df1f59f2",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",

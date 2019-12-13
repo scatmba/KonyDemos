@@ -1,0 +1,37 @@
+{
+    "AS_Image_b729e137d2dc4c9498883659df1f59f2": {
+        "id": "AS_Image_b729e137d2dc4c9498883659df1f59f2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e0b161af8297410b954274417d93e3e5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___ccd89dafd1944be5b10992d8f6491d99",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmNotification",
+            "formKUID": "b218a0523812476c8e3b1b93f73eed85",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchStart\",\n        \"widgetId\": \"imgNotif\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

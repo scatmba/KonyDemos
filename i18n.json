@@ -1,0 +1,31 @@
+{
+    "keys": [
+        "welcometext"
+    ],
+    "locales": {
+        "en_US": {
+            "i18nStrings": {
+                "welcometext": "Welcome"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        },
+        "hi_IN": {
+            "i18nStrings": {
+                "welcometext": "स्वागत हे"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

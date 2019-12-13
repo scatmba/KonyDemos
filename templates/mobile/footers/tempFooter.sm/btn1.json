@@ -41,6 +41,7 @@
     },
     "displaytext": true,
     "id": "btn1",
+    "ide_onClick": "AS_Button_fb93adb7c39e477dab9f452f958fcb5a",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

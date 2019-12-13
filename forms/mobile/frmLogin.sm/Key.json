@@ -38,7 +38,7 @@
     "canUpdateUI": true,
     "centery": {
         "type": "string",
-        "value": "-8%"
+        "value": "-10%"
     },
     "containerweight": 100,
     "contentalignment": 4,

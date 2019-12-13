@@ -25,11 +25,11 @@ function signup()
   frmLogin.flxInner2.setVisibility(true); 
 }
 function onClickLoginBtn(){
-  if(frmLogin.tbxUsername.text === ""){
-    alert("Please enter valid username")
-  }else if(frmLogin.tbxPassword.text === ""){
-    alert("Please enter valid password")
-  }else{
+//   if(frmLogin.tbxUsername.text === ""){
+//     alert("Please enter valid username")
+//   }else if(frmLogin.tbxPassword.text === ""){
+//     alert("Please enter valid password")
+//   }else{
     frmDashboard.show();
-  }
+  
 }
