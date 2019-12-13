@@ -1,0 +1,31 @@
+{
+    "AS_TextField_d46d6ff2940241b78512f3baac8fc9b9": {
+        "id": "AS_TextField_d46d6ff2940241b78512f3baac8fc9b9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmMakePayment",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie8fd6ea6b2b45a1a329b73fd639bc42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f2634f3c6ba448969989340d059aacc7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onDoneCvv",
+            "display": "onDoneCvv",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

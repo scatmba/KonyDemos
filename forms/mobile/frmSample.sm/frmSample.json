@@ -1,7 +1,6 @@
 {
     "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
     "DNDConfig": null,
-    "_headers_": [],
     "_margin_": [
         0,
         0,
@@ -31,28 +30,21 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxSMakePayment",
-        "flxSotp",
-        "flxSpaymentSuccessful"
+        "lblTimer"
     ],
     "containerweight": 100,
     "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "GalaxyS3",
+    "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "footer": "frmMakePayment_footer",
-    "footersId": "be2ff757445e43e7bb000140226408ae",
-    "header": "frmMakePayment_header",
-    "headersId": "ef1a24f19ed74c09b6800ee37e566154",
-    "id": "frmMakePayment",
-    "ide_preShow": "AS_Form_h5c4b41986a0436f91c0df9c5cbd0a05",
+    "id": "frmSample",
+    "ide_preShow": "AS_Form_e71f5aaca8ee4d288927fcf12ecb95d4",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
-    "invokedProperty": "footers",
     "ipad": {
         "needAppMenu": false,
         "psp": {
@@ -67,7 +59,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "d79add81072f4bee8e1e2322eef7c1e2",
+                "kuid": "e7993eeff19442f89971cd73ce012967",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -78,7 +70,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "a9366378897148a5a73b7c433388a13f",
+                        "kuid": "f26c977c374c450daf5dbb9a4d89af45",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -95,18 +87,18 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "ie8fd6ea6b2b45a1a329b73fd639bc42",
-    "layouttype": 4,
+    "kuid": "a19bef74b98d44eca212db19a6d5e401",
+    "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
-    "prevDevice": "GalaxyS5",
+    "platform": "iphone",
+    "prevDevice": "iPhoneXS",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_GalaxyS3",
+    "shellCSS": "iOS_iPhoneXS",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

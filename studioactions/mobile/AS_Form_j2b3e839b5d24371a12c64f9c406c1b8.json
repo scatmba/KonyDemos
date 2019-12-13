@@ -1,0 +1,28 @@
+{
+    "AS_Form_j2b3e839b5d24371a12c64f9c406c1b8": {
+        "id": "AS_Form_j2b3e839b5d24371a12c64f9c406c1b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSample",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a19bef74b98d44eca212db19a6d5e401"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___heb77cd146e941f7b704d660777be0c1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "countdown",
+            "display": "countdown",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

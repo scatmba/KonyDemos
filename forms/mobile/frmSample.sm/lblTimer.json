@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "9.25%"
+        "value": "113dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s69b5402412d48cda57bf3d73baaf840",
-    "_text_": "9 0 1 2",
+    "_skin_": "sb61d9e34fc54134ac84549d0156c005",
+    "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "157dp"
     },
     "_width_": {
         "type": "ref",
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "slot3",
+    "id": "lblTimer",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "edc47f96ecbd4b9f817271f3729ea215",
+    "kuid": "a37a54485ef3458d8ada7fa80e7dec79",
     "name": "kony.ui.Label",
-    "parent": "flxcontainerSlots",
-    "pf": "frmMakePayment",
+    "parent": "frmSample",
+    "pf": "frmSample",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

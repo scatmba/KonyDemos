@@ -31,7 +31,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "54%"
+        "value": "55%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -46,6 +46,7 @@
         "focusSkin": "s8ced50801634e9aa55fd9ee02a43d32"
     },
     "id": "tbxCvv",
+    "ide_onTextChange": "AS_TextField_d46d6ff2940241b78512f3baac8fc9b9",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

@@ -42,8 +42,11 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 5,
-    "focusskin": "s8ced50801634e9aa55fd9ee02a43d32",
+    "disabledSkins": {
+        "focusSkin": "s8ced50801634e9aa55fd9ee02a43d32"
+    },
     "id": "tbxOtp2",
+    "ide_onTextChange": "AS_TextField_fb2cfb7b4da14949b02c6e3daf4e7e19",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

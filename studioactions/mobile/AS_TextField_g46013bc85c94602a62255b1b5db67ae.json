@@ -1,0 +1,31 @@
+{
+    "AS_TextField_g46013bc85c94602a62255b1b5db67ae": {
+        "id": "AS_TextField_g46013bc85c94602a62255b1b5db67ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmMakePayment",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ie8fd6ea6b2b45a1a329b73fd639bc42"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fd2f8a256e384382b77d403bc8624a72",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onDoneOtp3",
+            "display": "onDoneOtp3",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

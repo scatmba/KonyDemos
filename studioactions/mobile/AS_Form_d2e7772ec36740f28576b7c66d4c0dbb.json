@@ -1,0 +1,28 @@
+{
+    "AS_Form_d2e7772ec36740f28576b7c66d4c0dbb": {
+        "id": "AS_Form_d2e7772ec36740f28576b7c66d4c0dbb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSample",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a19bef74b98d44eca212db19a6d5e401"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ad7729bef3f54b05a6c686bf3db17ed8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "timer",
+            "display": "timer",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

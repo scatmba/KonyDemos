@@ -30,7 +30,7 @@
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchStart\",\n        \"widgetId\": \"btnQuickBillPay\"\n    }\n}",
+            "navigationObj": "{\n\"_meta_\" : {\n\t\"eventName\" : \"onTouchStart\",\n\t\"widgetId\" : \"btnQuickBillPay\"\n}\n}",
             "isCustomInput": false
         }]
     }
